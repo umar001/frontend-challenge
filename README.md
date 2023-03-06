@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Connection with Backend
 ### please update backend api url in src -> utils -> constants.js 
-#### example SERVER_API = hhtp://localhost:<PORT>/
+#### example SERVER_API = hhtp://localhost:<PORT_NO>/
 
 ## Available Scripts
 
