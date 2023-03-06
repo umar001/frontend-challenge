@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### docker run -p 3000:3000 -d <APP_NAME>
 
 ## Connection with Backend
-### please update backend api url in src=>utils=>constants.js 
+### please update backend api url in src -> utils -> constants.js 
 #### example SERVER_API = hhtp://localhost:<PORT>/
 
 ## Available Scripts
