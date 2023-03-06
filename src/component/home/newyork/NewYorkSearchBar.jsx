@@ -45,7 +45,7 @@ function NewYorkSearchBar({
     <>
       <Grid container justifyContent="center" alignItems="center">
         <Grid item md={12} sm={12} mb={6}>
-          <Typography variant="h5">Data Source {newsDataSource.txt}</Typography>
+          <Typography variant="h5">Data Source New York News API</Typography>
         </Grid>
         <Grid item md={12} sm={12}>
           <form onSubmit={searchSubmitHandler}>

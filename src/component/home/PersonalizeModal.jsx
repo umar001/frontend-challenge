@@ -69,7 +69,7 @@ function PersonalizeModal({
       resetState();
       toaster("success", "Feed successfully stored");
     } else {
-      toaster("success", "Something went wrong please refresh your page");
+      toaster("error", "Something went wrong please refresh your page");
     }
     closeModalHandler();
     callApi(newsSource);
