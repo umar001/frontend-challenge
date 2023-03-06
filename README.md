@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Docker Run Commands
+
+### docker build . -t <APP_NAME>
+### docker run -p 3000:3000 -d <APP_NAME>
+
+## Connection with Backend
+### please update backend api url in src=>utils=>constants.js 
+#### example SERVER_API = hhtp://localhost:<PORT>/
+
 ## Available Scripts
 
 In the project directory, you can run:
